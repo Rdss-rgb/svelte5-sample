@@ -14,7 +14,7 @@
     <ul>
         <li>Basic Counter</li>
         <li>Temperature Converter</li>
-        <li>Flight Booker</li>
+        <li>Text to Speech</li>
         <li>Blog</li>
         <li>Cookie</li>
     </ul>

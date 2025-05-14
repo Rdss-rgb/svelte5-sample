@@ -20,9 +20,9 @@ export const dictionary = {
 		"/Temperature": [4],
 		"/blog": [~5],
 		"/blog/[slug]": [~6,[2]],
-		"/booked": [7],
-		"/cookie": [~8],
-		"/counter": [9]
+		"/cookie": [~7],
+		"/counter": [8],
+		"/speech": [9]
 	};
 
 export const hooks = {

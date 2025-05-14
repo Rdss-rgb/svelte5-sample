@@ -7,9 +7,9 @@
 	"/blog/[slug]": [
 		"src/routes/blog/[slug]/+page.server.js"
 	],
-	"/booked": [],
 	"/cookie": [
 		"src/routes/cookie/+page.server.js"
 	],
-	"/counter": []
+	"/counter": [],
+	"/speech": []
 }
